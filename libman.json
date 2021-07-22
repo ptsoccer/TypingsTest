@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "list.js@2.3.1",
+      "destination": "lib\\list.js"
+    },
+    {
+      "library": "@types/list.js@2.3.1",
+      "destination": "lib\\types/list.js"
+    }
+  ]
+}
